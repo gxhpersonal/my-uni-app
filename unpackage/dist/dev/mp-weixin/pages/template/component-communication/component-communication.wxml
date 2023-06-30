@@ -1,0 +1,1 @@
+<view><page-head wx:if="{{a}}" u-i="ab3ade10-0" bind:__l="__l" u-p="{{a}}"></page-head><view class="uni-padding-wrap"><view class="uni-btn-v"><reciver u-i="ab3ade10-1" bind:__l="__l"></reciver><sender u-i="ab3ade10-2" bind:__l="__l"></sender><sender-bus u-i="ab3ade10-3" bind:__l="__l"></sender-bus></view></view></view>
